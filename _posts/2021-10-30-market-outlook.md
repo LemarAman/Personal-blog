@@ -12,6 +12,6 @@ My last post on this blog was around the time Covid really began taking its toll
 
 Without doubt, BTC has had its share of volatility and anyone who doesn't have the capacity to handle the disgusting downswings should avoid trading it. I still think BTC has room to grow, but I'm also including a portion of my portfolio towards ETH.
 
-A stock market crash is inevitable at this point, so I'm refraining from becoming too invested in any particular stock. Set and forget in **VOO or **VTI**, and long semiconductor ETFs (**TSM/SOXX & INTC at <45**). If you're a highroller you can take a chance on cannabis which has taken a hit and may have upward movement with Dems trying to move legislation forward. Also consider mining ops like **GDX** and green energy.
+A stock market crash is inevitable at this point, so I'm refraining from becoming too invested in any particular stock. Set and forget in **VOO or VTI**, and long semiconductor ETFs (**TSM/SOXX & INTC at <45**). If you're a highroller you can take a chance on cannabis which has taken a hit and may have upward movement with Dems trying to move legislation forward. Also consider mining ops like **GDX** and green energy.
 
 Obligatory I'm not a financial advisor and do your own DD.
