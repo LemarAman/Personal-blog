@@ -121,7 +121,7 @@ author:
     #  url: "https://www.facebook.com/lemar.a.15"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/amanlemar"
+      url: "https://github.com/lemaraman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lemaraman/"
@@ -137,7 +137,7 @@ footer:
     #  url: "https://www.facebook.com/lemar.a.15"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/amanlemar"
+      url: "https://github.com/lemaraman"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
